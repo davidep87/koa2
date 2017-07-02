@@ -1,7 +1,3 @@
 ### Author: Davide Polano
-### Info: General project information
-### Stack: Node.JS (7.7.1) - KoaJS
-
+### Node.JS (7.7.1) - KoaJS (2.3)
 ### Koa Boilerplate
-
-## Basic configuration
