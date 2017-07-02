@@ -11,11 +11,7 @@
   "keywords": [
     "koa2",
     "async",
-    "await",
-    "sequelize",
-    "nedb",
-    "react",
-    "redux"
+    "await"
   ],
   "author": "MDSLab",
   "license": "ISC",
